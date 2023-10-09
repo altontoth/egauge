@@ -33,7 +33,7 @@ spreadsheet_name = 'home_egauge16231'
 ###############################################################
 
 # Enter eGauge name
-eGauge = "egauge16231"
+eGauge = "egauge83892"
 # Get XML from eGauge device
 url = "http://" + eGauge + ".egaug.es/cgi-bin/egauge?noteam"
 
